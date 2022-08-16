@@ -1,11 +1,15 @@
 <h1 align="center">Hello, I'm Brady</h1>
 <h3 align="center">I'm a passionate and curious Computer Science Student</h3>
 
-- I'm looking for **summer 2023 internships**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bradybender&label=Profile%20views&color=0e75b6&style=flat" alt="bradybender" /> </p>
 
-- I’m currently learning **on bettering my coding knowledge**
+- I'm interested in **Computer Science and Cybersecurity fields and their interesting futures**
 
-- How to reach me **bradymb@zoominternet.net**
+- I’m currently trying **to better my coding knowledge by practicing soft skills and programming basics**
+
+- I'm looking for **summer 2023 internships to help me understand the field I am entering**
+
+- Contact me: **bradymb@zoominternet.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
