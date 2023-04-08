@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradybender&label=Profile%20views&color=0e75b6&style=flat" alt="bradybender" /> </p>
 
-- I'm interested in **Computer Science and Cybersecurity fields and their interesting futures**
+- I'm interested in **Computer Science and Cybersecurity fields**
 
 - I’m currently trying **to better my coding knowledge by practicing soft skills and programming basics**
 
-- I'm looking for **summer 2023 internships to help me understand the field I am entering**
+- I'm looking for **projects and experience to help strengthen my background in computer science**
 
 - Contact me: **bradymb@zoominternet.net**
 
